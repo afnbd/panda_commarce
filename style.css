@@ -1,0 +1,48 @@
+
+.container{
+    margin-bottom:50px;
+}
+.orange_bg{
+    background-color: bisque;
+    border-radius:5px;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.pricing-color{
+    color:#ff134f;
+}
+.buy_now_button{
+    color:white;
+    background-image:linear-gradient(to bottom,  #f13765 0%,  #f13765 100%);
+    padding:5px 10px;
+    border-radius:8px;
+    cursor:pointer;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius:8px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: cyan;
+}
+.cat3{
+    background-color: purple;
+}
+.cetegorise{
+    color:white;
+
+}
+.cetegorise{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+}
+.gmail-width{
+    height:300px;
+}
